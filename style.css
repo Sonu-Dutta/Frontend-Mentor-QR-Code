@@ -30,12 +30,15 @@ main.wrapper{
 h2{
     color: rgb(31, 50, 81);
     margin: 15px;
-    font-size: 20px;
+    font-size: 18px;
+    padding:0 1rem;
 }
 
 p{
     color: rgb(123, 135, 157);
     margin: 15px;
-    margin-bottom: 10px;
-    font-size: 16px;
+    margin-bottom: 15px;
+    font-size: 13.7px;
+    padding: 0 1rem;
+    padding-bottom: 0.2rem;
 }
